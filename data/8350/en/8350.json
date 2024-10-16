@@ -1,0 +1,3338 @@
+[
+  {
+    "id": "II.1-0",
+    "name": "II.1",
+    "startY": 162,
+    "endY": 204,
+    "absoluteY": 1846,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1887,
+    "lines": [
+      {
+        "str": "II.1.",
+        "num": 162,
+        "size": 7.98,
+        "x": 68,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "I am aware of the relevant requirements of Regulation (EC) No 178/2002 of the European Parliament and of the Council, Regulation (EC)",
+        "num": 162,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "No 852/2004 of the European Parliament and of the Council, Regulation (EC) No 853/2004 of the European Parliament and of the Council,",
+        "num": 172,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Regulation (EU) 2017/625 of the European Parliament and of the Council, Commission Delegated Regulations (EU) 2019/624 and (EU)",
+        "num": 182,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "2022/2292, Commission Implementing Regulations (EU) 2019/627 and (EU) 2021/405.",
+        "num": 192,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.2-0",
+    "name": "II.2",
+    "startY": 204,
+    "endY": 331,
+    "absoluteY": 1887,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2015,
+    "lines": [
+      {
+        "str": "II.2.",
+        "num": 204,
+        "size": 7.98,
+        "x": 72,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "The composite products described in Part I:",
+        "num": 204,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(a)",
+        "num": 215,
+        "size": 7.98,
+        "x": 109,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "comply with Article 5 of Regulation (EC) No 852/2004, in particular they come from (an) establishment(s) implementing a",
+        "num": 215,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "programme based on the hazard analysis and critical control points (HACCP) principles, regularly audited by the competent",
+        "num": 225,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "authorities;",
+        "num": 234,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(b)",
+        "num": 245,
+        "size": 7.98,
+        "x": 109,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "comply with Article 6(1), point (b), of Regulation (EC) No 853/2004 on the origin of the products of animal origin used in their",
+        "num": 245,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "production;",
+        "num": 254,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(c)",
+        "num": 266,
+        "size": 7.98,
+        "x": 109,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "were produced in accordance with the requirements referred to under point II.1.;",
+        "num": 266,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(d)",
+        "num": 277,
+        "size": 7.98,
+        "x": 109,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "fulfil the guarantees covering live animals and products thereof provided by the control plan submitted in accordance with Article",
+        "num": 277,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "6(2) of Delegated Regulation (EU) 2022/2292 and the concerned animals and products are listed in Annex -I to Implementing",
+        "num": 286,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Regulation (EU) 2021/405 for the concerned third country or territory;",
+        "num": 295,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(e)",
+        "num": 306,
+        "size": 7.98,
+        "x": 109,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "contain processed products of animal origin that were produced in the establishments located in the Member States or in the third",
+        "num": 306,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "countries authorised for the entry into the Union of those processed products of animal origin.",
+        "num": 315,
+        "size": 7.98,
+        "x": 137,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.3-0",
+    "name": "II.3",
+    "startY": 331,
+    "endY": 349,
+    "absoluteY": 2015,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2032,
+    "lines": [
+      {
+        "str": "II.3.",
+        "num": 331,
+        "size": 7.98,
+        "x": 72,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "The composite products",
+        "num": 331,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "described in Part I contain:",
+        "num": 331,
+        "size": 7.98,
+        "x": 195,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.3.A-0",
+    "name": "II.3.A",
+    "startY": 349,
+    "endY": 376,
+    "absoluteY": 2032,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2060,
+    "lines": [
+      {
+        "str": "either",
+        "num": 349,
+        "size": 7.98,
+        "x": 74,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[",
+        "num": 349,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "II.3.A.",
+        "num": 349,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d0_f1",
+        "page": 3
+      },
+      {
+        "str": "Meat products",
+        "num": 349,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f1",
+        "page": 3
+      },
+      {
+        "str": "in any quantity except gelatine, collagen and highly refined products referred to in Section XVI of Annex III",
+        "num": 349,
+        "size": 7.98,
+        "x": 204,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "to Regulation (EC) No 853/2004, which:",
+        "num": 359,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.3.A.1-0",
+    "name": "II.3.A.1",
+    "startY": 376,
+    "endY": 422,
+    "absoluteY": 2060,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2106,
+    "lines": [
+      {
+        "str": "II.3.A.1.",
+        "num": 376,
+        "size": 7.98,
+        "x": 77,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "meet the animal health requirements laid down in Commission Delegated Regulation (EU) 2020/692 and contain the following meat",
+        "num": 376,
+        "size": 7.98,
+        "x": 119,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "constituents which are eligible for the entry into the Union as such and meet the following criteria:",
+        "num": 386,
+        "size": 7.98,
+        "x": 119,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Species",
+        "num": 398,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Treatment",
+        "num": 398,
+        "size": 7.98,
+        "x": 216,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Origin",
+        "num": 398,
+        "size": 7.98,
+        "x": 300,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Approved establishment(s)",
+        "num": 398,
+        "size": 7.98,
+        "x": 354,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.3.A.2-0",
+    "name": "II.3.A.2",
+    "startY": 422,
+    "endY": 500,
+    "absoluteY": 2106,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2184,
+    "lines": [
+      {
+        "str": "Part II: Certification",
+        "num": 476,
+        "size": 7.98,
+        "x": 52,
+        "font": "g_d0_f1",
+        "page": 3
+      },
+      {
+        "str": "[II.3.A.2. originate from:",
+        "num": 422,
+        "size": 7.98,
+        "x": 74,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 434,
+        "size": 7.98,
+        "x": 90,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the same country as the country of origin in Box I.7;]",
+        "num": 434,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "and",
+        "num": 446,
+        "size": 7.98,
+        "x": 90,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "/",
+        "num": 446,
+        "size": 7.98,
+        "x": 102,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 446,
+        "size": 7.98,
+        "x": 105,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[a Member State;]",
+        "num": 446,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "and/or",
+        "num": 458,
+        "size": 7.98,
+        "x": 83,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[a zone",
+        "num": 458,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "with code ...... .................",
+        "num": 458,
+        "size": 7.98,
+        "x": 151,
+        "font": "g_d0_f8",
+        "page": 3
+      },
+      {
+        "str": "authorised for the entry into the Union of meat products not required to undergo a specific risk-",
+        "num": 458,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "mitigating treatment as set out in Annex XV to Commission Implementing Regulation (EU) 2021/404 with assigned treatment A, and",
+        "num": 468,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the zone where the composite product was produced is also authorised for the entry into the Union of meat products with assigned",
+        "num": 478,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "treatment A.]]",
+        "num": 488,
+        "size": 7.98,
+        "x": 126,
+        "font": "g_d0_f5",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.3.A.3-0",
+    "name": "II.3.A.3",
+    "startY": 500,
+    "endY": 728,
+    "absoluteY": 2184,
+    "startPage": 3,
+    "endPage": 4,
+    "absoluteEndY": 3254,
+    "lines": [
+      {
+        "str": "[II.3.A.3.",
+        "num": 500,
+        "size": 7.98,
+        "x": 76,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "if containing material from bovine, ovine or caprine animals, with regard to bovine spongiform encephalopathy (BSE):",
+        "num": 500,
+        "size": 7.98,
+        "x": 119,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 511,
+        "size": 7.98,
+        "x": 84,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the country or region of origin is classified in accordance with Commission Decision 2007/453/EC as a country or region posing a",
+        "num": 511,
+        "size": 7.98,
+        "x": 113,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "negligible BSE risk, and",
+        "num": 521,
+        "size": 7.98,
+        "x": 113,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 533,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the animals from which the meat products are derived were born, continuously reared and slaughtered in a country or",
+        "num": 533,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk in which",
+        "num": 543,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "there have been no BSE indigenous cases;]]]",
+        "num": 553,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "and/or",
+        "num": 565,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the animals from which the meat products are derived originate from a country or region classified in accordance with",
+        "num": 565,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there has been at least one BSE",
+        "num": 574,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "indigenous case, and the meat products do not contain and are not derived from mechanically separated meat obtained",
+        "num": 584,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "from bones of bovine, ovine and caprine animals;]]]",
+        "num": 594,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "and/or",
+        "num": 606,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the animals from which the meat products are derived originate from a country or region classified in accordance with",
+        "num": 606,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Decision 2007/453/EC as a country or region posing a controlled BSE risk, and:",
+        "num": 616,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(i)",
+        "num": 628,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the meat products do not contain and are not derived from specified risk material as defined in point 1 of Annex",
+        "num": 628,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "V to Regulation (EC) No 999/2001 of the European Parliament and of the Council;",
+        "num": 638,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(ii)",
+        "num": 650,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the meat products do not contain and are not derived from mechanically separated meat obtained from bones of",
+        "num": 650,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "bovine, ovine and caprine animals;",
+        "num": 660,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(iii)",
+        "num": 672,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been slaughtered after stunning by means of gas",
+        "num": 672,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "injected into the cranial cavity or killed by the same method or slaughtered by laceration after stunning of",
+        "num": 682,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity;]]]",
+        "num": 692,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "and/or",
+        "num": 704,
+        "size": 7.98,
+        "x": 121,
+        "font": "g_d0_f7",
+        "page": 3
+      },
+      {
+        "str": "[the animals from which the meat products are derived originate from a country or region classified in accordance with",
+        "num": 704,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Decision 2007/453/EC as a country or region posing an undetermined BSE risk, and:",
+        "num": 714,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(i)",
+        "num": 725,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the meat products do not contain and are not derived from specified risk material as defined in point 1 of",
+        "num": 725,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "Annex V to Regulation (EC) No 999/2001;",
+        "num": 735,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(ii)",
+        "num": 747,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "the meat products do not contain and are not derived from mechanically separated meat obtained from bones",
+        "num": 747,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "of bovine, ovine and caprine animals;",
+        "num": 757,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 3
+      },
+      {
+        "str": "(iii)",
+        "num": 126,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been slaughtered after stunning by means of",
+        "num": 126,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "gas injected into the cranial cavity or killed by the same method or slaughtered by laceration after stunning of",
+        "num": 136,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity;",
+        "num": 146,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(iv)",
+        "num": 158,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been fed with meat-and-bone meal or greaves,",
+        "num": 158,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "as defined in the Terrestrial Animal Health Code of the World Organisation for Animal Health;",
+        "num": 168,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(v)",
+        "num": 180,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products were produced and handled in a manner which ensures that they do not contain and were",
+        "num": 180,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "not contaminated with nervous and lymphatic tissues exposed during the deboning process;]]]",
+        "num": 190,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and",
+        "num": 202,
+        "size": 7.98,
+        "x": 84,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "/",
+        "num": 202,
+        "size": 7.98,
+        "x": 96,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 202,
+        "size": 7.98,
+        "x": 99,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[the country or region of origin is classified in accordance with Decision 2007/453/EC as a country or region posing a controlled BSE",
+        "num": 202,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "risk, and:",
+        "num": 212,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(a)",
+        "num": 223,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been slaughtered after stunning by means of gas injected",
+        "num": 223,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "into the cranial cavity or killed by the same method or slaughtered by laceration after stunning of central nervous tissue",
+        "num": 233,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "by means of an elongated rod-shaped instrument introduced into the cranial cavity;",
+        "num": 243,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 255,
+        "size": 7.98,
+        "x": 106,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 255,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products do not contain and are not derived from:",
+        "num": 255,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(i)",
+        "num": 267,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001;",
+        "num": 267,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(ii)",
+        "num": 279,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "mechanically separated meat obtained from bones of bovine, ovine and caprine animals.]",
+        "num": 279,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 291,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 291,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products contain and are derived from treated intestines sourced from animals which were born, continuously",
+        "num": 291,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "reared and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as a country or region",
+        "num": 301,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "posing a negligible BSE risk in which there have been no BSE indigenous cases;]",
+        "num": 311,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 323,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 323,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products contain and are derived from treated intestines sourced from animals which originate from a country",
+        "num": 323,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "or region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk in",
+        "num": 333,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "which there has been at least one BSE indigenous case, and:",
+        "num": 343,
+        "size": 7.98,
+        "x": 169,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 355,
+        "size": 7.98,
+        "x": 140,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(i)",
+        "num": 355,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals were born after the date from which the ban on the feeding of ruminants with meat-and-bone meal",
+        "num": 355,
+        "size": 7.98,
+        "x": 196,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and greaves derived from ruminants has been enforced;]]",
+        "num": 365,
+        "size": 7.98,
+        "x": 196,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 376,
+        "size": 7.98,
+        "x": 140,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(ii)",
+        "num": 376,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the treated intestines of bovine, ovine and caprine animal origin do not contain and are not derived from",
+        "num": 376,
+        "size": 7.98,
+        "x": 196,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001;]]",
+        "num": 386,
+        "size": 7.98,
+        "x": 196,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 398,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(c)",
+        "num": 398,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived originate from a country or region classified in accordance with",
+        "num": 398,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "Decision 2007/453/EC as a country or region posing a negligible or a controlled BSE risk;]]]",
+        "num": 408,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 420,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(c)",
+        "num": 420,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived originate from a country or region classified in accordance with",
+        "num": 420,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "Decision 2007/453/EC as a country or region posing an undetermined BSE risk, and:",
+        "num": 430,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(i)",
+        "num": 442,
+        "size": 7.98,
+        "x": 161,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been fed with meat-and-bone meal or greaves, as",
+        "num": 442,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "defined in the Terrestrial Animal Health Code of the World Organisation for Animal Health;",
+        "num": 452,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(ii)",
+        "num": 464,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products were produced and handled in a manner which ensures that they do not contain and were not",
+        "num": 464,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "contaminated with nervous and lymphatic tissues exposed during the deboning process;]]]",
+        "num": 474,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and",
+        "num": 486,
+        "size": 7.98,
+        "x": 84,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "/",
+        "num": 486,
+        "size": 7.98,
+        "x": 96,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 486,
+        "size": 7.98,
+        "x": 99,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[the country or region of origin is classified in accordance with Decision 2007/453/EC as a country or region with an undetermined BSE",
+        "num": 486,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "risk, and:",
+        "num": 496,
+        "size": 7.98,
+        "x": 120,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(a)",
+        "num": 508,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals from which the meat products are derived have not been:",
+        "num": 508,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(i)",
+        "num": 519,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "slaughtered after stunning by means of gas injected into the cranial cavity or killed by the same method or",
+        "num": 519,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "slaughtered by laceration after stunning of central nervous tissue by means of an elongated rod-shaped instrument",
+        "num": 529,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "introduced into the cranial cavity;",
+        "num": 539,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(ii)",
+        "num": 551,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "fed meat-and-bone meal or greaves derived from ruminants, as defined in the Terrestrial Animal Health Code of",
+        "num": 551,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the World Organisation for Animal Health;",
+        "num": 561,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 573,
+        "size": 7.98,
+        "x": 106,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 573,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products do not contain and are not derived from:",
+        "num": 573,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(i)",
+        "num": 585,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001;",
+        "num": 585,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(ii)",
+        "num": 597,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "mechanically separated meat obtained from bones of bovine, ovine and caprine animals;",
+        "num": 597,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(iii)",
+        "num": 609,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "nervous and lymphatic tissues exposed during the deboning process;]]]",
+        "num": 609,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 621,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 621,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products contain and are derived from treated intestines sourced from animals which were born, continuously",
+        "num": 621,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "reared and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as a country or region",
+        "num": 631,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "posing a negligible BSE risk in which there have been no BSE indigenous cases;]]]",
+        "num": 641,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 653,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 653,
+        "size": 7.98,
+        "x": 134,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the meat products contain and are derived from treated intestines sourced from animals which originate from a country or",
+        "num": 653,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk in which",
+        "num": 663,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "there has been at least one BSE indigenous case, and:",
+        "num": 673,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 684,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(i)",
+        "num": 684,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the animals were born after the date from which the ban on the feeding of ruminants with meat-and-",
+        "num": 684,
+        "size": 7.98,
+        "x": 226,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "bone meal and greaves derived from ruminants has been enforced;]]]]",
+        "num": 694,
+        "size": 7.98,
+        "x": 226,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "and/or",
+        "num": 706,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[(ii)",
+        "num": 706,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "the treated intestines of bovine, ovine and caprine animal origin do not contain and are not derived",
+        "num": 706,
+        "size": 7.98,
+        "x": 226,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "from specified risk material as defined in point 1 of Annex V to Regulation (EC) No 999/2001.]]]]",
+        "num": 716,
+        "size": 7.98,
+        "x": 226,
+        "font": "g_d0_f5",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "II.3.B-0",
+    "name": "II.3.B",
+    "startY": 728,
+    "endY": 617,
+    "absoluteY": 3254,
+    "startPage": 4,
+    "endPage": 5,
+    "absoluteEndY": 3985,
+    "lines": [
+      {
+        "str": "and/or",
+        "num": 728,
+        "size": 7.98,
+        "x": 74,
+        "font": "g_d0_f7",
+        "page": 4
+      },
+      {
+        "str": "[",
+        "num": 728,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "II.3.B.",
+        "num": 728,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d0_f1",
+        "page": 4
+      },
+      {
+        "str": "Dairy products or colostrum-based",
+        "num": 728,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f1",
+        "page": 4
+      },
+      {
+        "str": "products",
+        "num": 728,
+        "size": 7.98,
+        "x": 266,
+        "font": "g_d0_f1",
+        "page": 4
+      },
+      {
+        "str": "in any quantity that meet the animal health requirements laid down in",
+        "num": 728,
+        "size": 7.98,
+        "x": 306,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "Delegated Regulation (EU) 2020/692 and therefore are eligible for the entry into the Union as such, and:",
+        "num": 738,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "(a)",
+        "num": 750,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "have been produced in",
+        "num": 750,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 126,
+        "size": 7.98,
+        "x": 150,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[the zone",
+        "num": 126,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "with code ...... .................",
+        "num": 126,
+        "size": 7.98,
+        "x": 215,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "as listed in Part 1 of Annex XVII to Implementing Regulation (EU)",
+        "num": 126,
+        "size": 7.98,
+        "x": 312,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "2021/404 which has been free from foot and mouth disease and infection with rinderpest virus for the period of at",
+        "num": 136,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "least the last 12 months prior to the date of milking and, during that period, no vaccination against those diseases",
+        "num": 146,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "has been carried out;]",
+        "num": 156,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and/or",
+        "num": 168,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[the zone",
+        "num": 168,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "with code ...... .................",
+        "num": 168,
+        "size": 7.98,
+        "x": 215,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "as listed in Part 1 of Annex XVIII to Implementing Regulation (EU)",
+        "num": 168,
+        "size": 7.98,
+        "x": 312,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "2021/404 and the treatment applied complies with the minimum treatment provided for in Article 157 of and Annex",
+        "num": 178,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "XXVII to Delegated Regulation (EU) 2020/692;]",
+        "num": 188,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and/or",
+        "num": 200,
+        "size": 7.98,
+        "x": 150,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a Member State;]",
+        "num": 200,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and",
+        "num": 211,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "the establishment(s) ......................................... (a",
+        "num": 211,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "pproval number of the establishment(s) of origin of the",
+        "num": 211,
+        "size": 7.98,
+        "x": 366,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "dairy products or the colostrum-based products contained in the composite product authorised at the date of",
+        "num": 221,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "production for entry into the Union of dairy products or colostrum-based products);",
+        "num": 231,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "(b)",
+        "num": 243,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "originate in:",
+        "num": 243,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 255,
+        "size": 7.98,
+        "x": 149,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[the same country as the country referred to in Box I.7;]",
+        "num": 255,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and/or",
+        "num": 267,
+        "size": 7.98,
+        "x": 143,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a Member State;]",
+        "num": 267,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and/or",
+        "num": 279,
+        "size": 7.98,
+        "x": 143,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a zone with code ...... .................",
+        "num": 279,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "authorised for the entry into the Union of milk, colostrum, dairy products and",
+        "num": 279,
+        "size": 7.98,
+        "x": 306,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "colostrum-based products in Part 1 of Annex XVII to Implementing Regulation (EU) 2021/404, and the zone where",
+        "num": 289,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "the composite product was produced is also authorised, under the same conditions, for the entry into the Union of",
+        "num": 299,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "milk, colostrum, dairy products and colostrum-based products and listed in Part 1 of that Annex;]",
+        "num": 309,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "[(c)",
+        "num": 321,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "are dairy products produced from raw milk and/or dairy products therefrom, and made from raw milk obtained from:",
+        "num": 321,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 333,
+        "size": 7.98,
+        "x": 155,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[[",
+        "num": 333,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Bos taurus",
+        "num": 333,
+        "size": 7.98,
+        "x": 196,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "]",
+        "num": 333,
+        "size": 7.98,
+        "x": 230,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": ", [",
+        "num": 333,
+        "size": 7.98,
+        "x": 241,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Ovis aries",
+        "num": 333,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "]",
+        "num": 333,
+        "size": 7.98,
+        "x": 280,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": ", [",
+        "num": 333,
+        "size": 7.98,
+        "x": 291,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Capra hircus",
+        "num": 333,
+        "size": 7.98,
+        "x": 297,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "]",
+        "num": 333,
+        "size": 7.98,
+        "x": 340,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": ",",
+        "num": 333,
+        "size": 7.98,
+        "x": 350,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "[",
+        "num": 333,
+        "size": 7.98,
+        "x": 354,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Bubalus bubalis",
+        "num": 333,
+        "size": 7.98,
+        "x": 356,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "]",
+        "num": 333,
+        "size": 7.98,
+        "x": 408,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": ", [",
+        "num": 333,
+        "size": 7.98,
+        "x": 419,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Camelus dromedarius",
+        "num": 333,
+        "size": 7.98,
+        "x": 425,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "]",
+        "num": 333,
+        "size": 7.98,
+        "x": 496,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and prior to",
+        "num": 333,
+        "size": 7.98,
+        "x": 509,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "dispatch to the Union have undergone or been produced from raw milk and/or dairy products therefrom, which",
+        "num": 343,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "has/have undergone:",
+        "num": 353,
+        "size": 7.98,
+        "x": 191,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 364,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[at least a pasteurisation treatment involving a single heat treatment with a heating effect at least",
+        "num": 364,
+        "size": 7.98,
+        "x": 232,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "equivalent to that achieved by a pasteurisation process of at least 72°C for 15 seconds and where",
+        "num": 374,
+        "size": 7.98,
+        "x": 232,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "applicable, sufficient to ensure a negative reaction to an alkaline phosphatase test applied",
+        "num": 384,
+        "size": 7.98,
+        "x": 232,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "immediately after the heat treatment;]]]]",
+        "num": 394,
+        "size": 7.98,
+        "x": 232,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 406,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[",
+        "num": 406,
+        "size": 7.98,
+        "x": 232,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 406,
+        "size": 7.98,
+        "x": 246,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a sterilisation process, to achieve an F",
+        "num": 406,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "value equal to or greater than 3;]]]]]",
+        "num": 406,
+        "size": 7.98,
+        "x": 403,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 418,
+        "size": 7.98,
+        "x": 246,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[an ultra-high temperature (UHT) treatment at not less than 135°C in combination with",
+        "num": 418,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "a suitable holding time;]]]]]",
+        "num": 428,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 440,
+        "size": 7.98,
+        "x": 246,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a high temperature short time (HTST) pasteurisation treatment at 72°C for 15 seconds",
+        "num": 440,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "applied twice to milk with a pH equal to or greater than 7,0 achieving, where",
+        "num": 450,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "applicable, a negative reaction to an alkaline phosphatase test, applied immediately",
+        "num": 460,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "after the heat treatment;]]]]]",
+        "num": 470,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 482,
+        "size": 7.98,
+        "x": 246,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[HTST pasteurisation treatment of milk with a pH below 7,0;]]]]]",
+        "num": 482,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 494,
+        "size": 7.98,
+        "x": 246,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[HTST pasteurisation treatment combined with another physical treatment by:",
+        "num": 494,
+        "size": 7.98,
+        "x": 274,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 506,
+        "size": 7.98,
+        "x": 282,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[lowering the pH below 6 for one hour;]]]]]]",
+        "num": 506,
+        "size": 7.98,
+        "x": 317,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 517,
+        "size": 7.98,
+        "x": 282,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[additional heating equal to or greater than 72°C, combined with",
+        "num": 517,
+        "size": 7.98,
+        "x": 317,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "desiccation;]]]]]]",
+        "num": 527,
+        "size": 7.98,
+        "x": 317,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 539,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[animals other than",
+        "num": 539,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Bos taurus",
+        "num": 539,
+        "size": 7.98,
+        "x": 262,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": ",",
+        "num": 539,
+        "size": 7.98,
+        "x": 297,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Ovis aries",
+        "num": 539,
+        "size": 7.98,
+        "x": 301,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": ",",
+        "num": 539,
+        "size": 7.98,
+        "x": 333,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Capra hircus",
+        "num": 539,
+        "size": 7.98,
+        "x": 337,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": ",",
+        "num": 539,
+        "size": 7.98,
+        "x": 380,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Bubalus bubalis",
+        "num": 539,
+        "size": 7.98,
+        "x": 383,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "and",
+        "num": 539,
+        "size": 7.98,
+        "x": 437,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "Camelus dromedarius",
+        "num": 539,
+        "size": 7.98,
+        "x": 450,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "and prior",
+        "num": 539,
+        "size": 7.98,
+        "x": 523,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "to dispatch to the Union have undergone or been produced from raw milk which has undergone:",
+        "num": 549,
+        "size": 7.98,
+        "x": 198,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 561,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a sterilisation process, to achieve an F",
+        "num": 561,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "value equal to or greater than 3;]]]]",
+        "num": 561,
+        "size": 7.98,
+        "x": 369,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "or",
+        "num": 573,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[an ultra high temperature (UHT) treatment at not less than 135°C in combination with a suitable",
+        "num": 573,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "holding time;]]]]",
+        "num": 583,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "[(d)",
+        "num": 595,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "are colostrum-based products and come from a zone listed in Part 1 of Annex XVII to Implementing Regulation (EU)",
+        "num": 595,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "2021/404 for entry into the Union of milk, colostrum and colostrum-based products.]]",
+        "num": 605,
+        "size": 7.98,
+        "x": 162,
+        "font": "g_d0_f5",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "II.3.C-0",
+    "name": "II.3.C",
+    "startY": 617,
+    "endY": 639,
+    "absoluteY": 3985,
+    "startPage": 5,
+    "endPage": 5,
+    "absoluteEndY": 4006,
+    "lines": [
+      {
+        "str": "and/or",
+        "num": 617,
+        "size": 7.98,
+        "x": 74,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[",
+        "num": 617,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "II.3.C.",
+        "num": 617,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d0_f1",
+        "page": 5
+      },
+      {
+        "str": "Fishery products",
+        "num": 617,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f1",
+        "page": 5
+      },
+      {
+        "str": "that",
+        "num": 617,
+        "size": 7.98,
+        "x": 204,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "originate from the approved establishment No................",
+        "num": 617,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "situated in the country",
+        "num": 617,
+        "size": 7.98,
+        "x": 419,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "..........................",
+        "num": 627,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": ".]",
+        "num": 627,
+        "size": 7.98,
+        "x": 223,
+        "font": "g_d0_f5",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "II.3.D-0",
+    "name": "II.3.D",
+    "startY": 639,
+    "endY": 651,
+    "absoluteY": 4006,
+    "startPage": 5,
+    "endPage": 5,
+    "absoluteEndY": 4018,
+    "lines": [
+      {
+        "str": "and/or",
+        "num": 639,
+        "size": 7.98,
+        "x": 74,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[",
+        "num": 639,
+        "size": 7.98,
+        "x": 108,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "II.3.D.",
+        "num": 639,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d0_f1",
+        "page": 5
+      },
+      {
+        "str": "Egg products",
+        "num": 639,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f1",
+        "page": 5
+      },
+      {
+        "str": "that:",
+        "num": 639,
+        "size": 7.98,
+        "x": 192,
+        "font": "g_d0_f5",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "II.3.D.1-0",
+    "name": "II.3.D.1",
+    "startY": 651,
+    "endY": 716,
+    "absoluteY": 4018,
+    "startPage": 5,
+    "endPage": 5,
+    "absoluteEndY": 4084,
+    "lines": [
+      {
+        "str": "II.3.D.1.",
+        "num": 651,
+        "size": 7.98,
+        "x": 145,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "originate from the",
+        "num": 651,
+        "size": 7.98,
+        "x": 180,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "approved establishment No.........................",
+        "num": 651,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": "situated in:",
+        "num": 651,
+        "size": 7.98,
+        "x": 404,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 663,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[the zone",
+        "num": 663,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "with code ...... .................",
+        "num": 663,
+        "size": 7.98,
+        "x": 215,
+        "font": "g_d0_f8",
+        "page": 5
+      },
+      {
+        "str": ". which at the date of issue of this animal health/official certificate is",
+        "num": 663,
+        "size": 7.98,
+        "x": 321,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "listed in Part 1 of Annex XIX to Implementing Regulation (EU) 2021/404 for entry into the Union of egg products",
+        "num": 672,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and applies a disease surveillance programme for highly pathogenic avian influenza that complies with the",
+        "num": 682,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "requirements referred to in Article 160 of Delegated Regulation (EU) 2020/692;]",
+        "num": 692,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "and/or",
+        "num": 704,
+        "size": 7.98,
+        "x": 142,
+        "font": "g_d0_f7",
+        "page": 5
+      },
+      {
+        "str": "[a Member State;]",
+        "num": 704,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f5",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "II.3.D.2-0",
+    "name": "II.3.D.2",
+    "startY": 716,
+    "endY": 500,
+    "absoluteY": 4084,
+    "startPage": 5,
+    "endPage": 6,
+    "absoluteEndY": 4710,
+    "lines": [
+      {
+        "str": "II.3.D.2.",
+        "num": 716,
+        "size": 7.98,
+        "x": 144,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "were produced from eggs coming from an establishment which satisfies the requirements of Section X of Annex III",
+        "num": 716,
+        "size": 7.98,
+        "x": 180,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "to Regulation (EC) No 853/2004 in which, during the period of at least the last 30 days prior to the date of collection",
+        "num": 726,
+        "size": 7.98,
+        "x": 180,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "of the eggs, no outbreak of highly pathogenic avian influenza and infection with Newcastle disease virus has",
+        "num": 736,
+        "size": 7.98,
+        "x": 180,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "occurred, and:",
+        "num": 746,
+        "size": 7.98,
+        "x": 180,
+        "font": "g_d0_f5",
+        "page": 5
+      },
+      {
+        "str": "either",
+        "num": 126,
+        "size": 7.98,
+        "x": 141,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[(a)",
+        "num": 126,
+        "size": 7.98,
+        "x": 182,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "within a 10 km radius of which, including, where appropriate, the territory of a neighbouring country, there",
+        "num": 126,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "has been no outbreak of highly pathogenic avian influenza during the period of at least the last 30 days prior",
+        "num": 136,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "to the date of collection of the eggs;]",
+        "num": 146,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 158,
+        "size": 7.98,
+        "x": 155,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[(a)",
+        "num": 158,
+        "size": 7.98,
+        "x": 182,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "the egg products have undergone the following treatment:",
+        "num": 158,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 170,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[liquid egg white was treated:",
+        "num": 170,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 182,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 55,6°C for 870 seconds;]]",
+        "num": 182,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 194,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 56,7°C for 232 seconds;]]",
+        "num": 194,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 206,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[10 % salted yolk was treated with 62,2°C for 138 seconds;]",
+        "num": 206,
+        "size": 7.98,
+        "x": 202,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 218,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[dried egg white was treated:",
+        "num": 218,
+        "size": 7.98,
+        "x": 202,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 229,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 67°C for 20 hours;]]",
+        "num": 229,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 241,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 54,4°C for 50,4 hours;]]",
+        "num": 241,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 253,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[whole eggs were:",
+        "num": 253,
+        "size": 7.98,
+        "x": 202,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 265,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 60°C for 188 seconds;]]",
+        "num": 265,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 277,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[completely cooked;]]",
+        "num": 277,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 289,
+        "size": 7.98,
+        "x": 173,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[whole egg blends were:",
+        "num": 289,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 301,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 60°C for 188 seconds;]]",
+        "num": 301,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 313,
+        "size": 7.98,
+        "x": 206,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 61,1°C for 94 seconds;]]",
+        "num": 313,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 325,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[completely cooked;]]",
+        "num": 325,
+        "size": 7.98,
+        "x": 240,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 336,
+        "size": 7.98,
+        "x": 148,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[(b)",
+        "num": 336,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "within a 10 km radius of which, including, where appropriate, the territory of a neighbouring country, there has",
+        "num": 336,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "been no outbreak of infection with Newcastle disease virus during the period of at least the last 30 days prior",
+        "num": 345,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "to the date of collection of the eggs.]]",
+        "num": 354,
+        "size": 7.98,
+        "x": 205,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 366,
+        "size": 7.98,
+        "x": 148,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[(b)",
+        "num": 366,
+        "size": 7.98,
+        "x": 176,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "the egg products have undergone the following treatment:",
+        "num": 366,
+        "size": 7.98,
+        "x": 202,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 377,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[liquid egg white was treated:",
+        "num": 377,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 388,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 55ºC for 2 278 seconds.]]]]",
+        "num": 388,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 399,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 57ºC for 986 seconds.]]]]",
+        "num": 399,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 410,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[with 59ºC for 301 seconds.]]]]",
+        "num": 410,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 422,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[10 % salted yolk was treated with 55ºC for 176 seconds.]]]",
+        "num": 422,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 433,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[dried egg white was treated with 57ºC for 50,4 hours.]]]",
+        "num": 433,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 444,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[whole eggs were:",
+        "num": 444,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "either",
+        "num": 455,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 55ºC for 2 521 seconds.]]]]",
+        "num": 455,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 466,
+        "size": 7.98,
+        "x": 218,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 57ºC for 1 596 seconds.]]]]",
+        "num": 466,
+        "size": 7.98,
+        "x": 248,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 478,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[treated with 59ºC for 674 seconds.]]]",
+        "num": 478,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      },
+      {
+        "str": "or",
+        "num": 489,
+        "size": 7.98,
+        "x": 184,
+        "font": "g_d0_f7",
+        "page": 6
+      },
+      {
+        "str": "[completely cooked.]]]",
+        "num": 489,
+        "size": 7.98,
+        "x": 212,
+        "font": "g_d0_f5",
+        "page": 6
+      }
+    ]
+  }
+]

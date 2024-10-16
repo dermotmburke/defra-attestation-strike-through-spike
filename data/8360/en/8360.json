@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "II.1-0",
+    "name": "II.1",
+    "startY": 144,
+    "endY": 210,
+    "absoluteY": 1828,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1894,
+    "lines": [
+      {
+        "str": "II.1.",
+        "num": 144,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "Public health attestation",
+        "num": 144,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "[Delete when the Union is not the final destination of the egg products]",
+        "num": 144,
+        "size": 7.98,
+        "x": 182,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "I, the undersigned, official veterinarian declare that I am aware of the relevant requirements of Regulation (EC) No 178/2002 of the European",
+        "num": 162,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Parliament and of the Council, Regulation (EC)",
+        "num": 172,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "No 852/2004 of the European Parliament and of the Council, Regulation (EC) No 853/2004 of the",
+        "num": 172,
+        "size": 7.98,
+        "x": 224,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "European Parliament and of the Council, and Regulation (EU) 2017/625 of the European Parliament and of the Council and hereby certify that the egg",
+        "num": 182,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "products described in Part I have been obtained in accordance with these requirements, and in particular that:",
+        "num": 192,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.1-0",
+    "name": "II.1.1",
+    "startY": 210,
+    "endY": 241,
+    "absoluteY": 1894,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1925,
+    "lines": [
+      {
+        "str": "II.1.1.",
+        "num": 210,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "they come from (an) establishment(s) applying general hygiene requirements and implementing a programme based on the hazard",
+        "num": 210,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "analysis and critical control points (HACCP) principles in accordance with Article 5 of Regulation (EC) No 852/2004, regularly audited",
+        "num": 220,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "by the competent authorities, and is listed as a Union approved establishment;",
+        "num": 230,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.2-0",
+    "name": "II.1.2",
+    "startY": 241,
+    "endY": 263,
+    "absoluteY": 1925,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1947,
+    "lines": [
+      {
+        "str": "II.1.2.",
+        "num": 241,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "they have been produced from raw materials which meets the requirements of Section X, Chapter II, Part II, of Annex III to Regulation",
+        "num": 241,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(EC) No 853/2004;",
+        "num": 252,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.3-0",
+    "name": "II.1.3",
+    "startY": 263,
+    "endY": 285,
+    "absoluteY": 1947,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1969,
+    "lines": [
+      {
+        "str": "II.1.3.",
+        "num": 263,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "they have been produced in compliance with the hygiene requirements laid down in Section X, Chapter II, Parts I and III, of Annex III to",
+        "num": 263,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Regulation (EC) No 853/2004;",
+        "num": 273,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.4-0",
+    "name": "II.1.4",
+    "startY": 285,
+    "endY": 307,
+    "absoluteY": 1969,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 1991,
+    "lines": [
+      {
+        "str": "II.1.4.",
+        "num": 285,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "they satisfy the analytical specifications in Section X, Chapter II, Part IV, of Annex III to Regulation (EC) No 853/2004 and the relevant",
+        "num": 285,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "criteria laid down in Commission Regulation (EC) No 2073/2005;",
+        "num": 295,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.5-0",
+    "name": "II.1.5",
+    "startY": 307,
+    "endY": 329,
+    "absoluteY": 1991,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2013,
+    "lines": [
+      {
+        "str": "II.1.5.",
+        "num": 307,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "they have been marked with an identification mark in accordance with Section I of Annex II and Section X, Chapter II, Part V, of Annex",
+        "num": 307,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "III to Regulation (EC) No 853/2004;",
+        "num": 317,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.6-0",
+    "name": "II.1.6",
+    "startY": 329,
+    "endY": 363,
+    "absoluteY": 2013,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2047,
+    "lines": [
+      {
+        "str": "II.1.6.",
+        "num": 329,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "the guarantees covering live animals and products thereof provided by the control plan submitted in accordance with Article 6(2) of",
+        "num": 329,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Commission Delegated Regulation (EU) 2022/2292 are fulfilled and eggs are listed in Annex -I to Commission Implementing Regulation",
+        "num": 338,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(EU) 2021/405 for the concerned third country or territory.",
+        "num": 347,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.1.a-0",
+    "name": "II.1.a",
+    "startY": 363,
+    "endY": 457,
+    "absoluteY": 2047,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2141,
+    "lines": [
+      {
+        "str": "[",
+        "num": 363,
+        "size": 7.98,
+        "x": 83,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "II.1.a.",
+        "num": 363,
+        "size": 7.98,
+        "x": 86,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "Attestation",
+        "num": 363,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "as regards Commission Delegated Regulation (EU) 2023/905",
+        "num": 363,
+        "size": 7.98,
+        "x": 151,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "[Delete when the Union is not the final destination of the egg",
+        "num": 363,
+        "size": 7.98,
+        "x": 358,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "products]",
+        "num": 372,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "I, the undersigned official veterinarian declare that I am aware of the relevant requirements of Regulation (EU) 2019/6 of the European",
+        "num": 387,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Parliament and of the Council",
+        "num": 396,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "and Commission Delegated Regulation (EU) 2023/905 and hereby certify that the egg products described in",
+        "num": 396,
+        "size": 7.98,
+        "x": 208,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Part I have been obtained in accordance with these requirements, and in particular, that the flocks of laying hens from which the eggs have",
+        "num": 405,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "been obtained have not been administered antimicrobial medicinal products for growth promotion or yield increase or antimicrobial",
+        "num": 415,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "medicinal products containing an antimicrobial that is included in the list of antimicrobials reserved for the treatment of certain infections",
+        "num": 424,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "in humans laid down in Commission Implementing Regulation (EU) 2022/1255 as set out in Article 3 of Delegated Regulation (EU)",
+        "num": 433,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "2023/905 and originate from a third country or region thereof listed in accordance with Article 5(2) of Delegated Regulation (EU) 2023/905.]",
+        "num": 442,
+        "size": 7.98,
+        "x": 111,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.2-0",
+    "name": "II.2",
+    "startY": 457,
+    "endY": 488,
+    "absoluteY": 2141,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2172,
+    "lines": [
+      {
+        "str": "II.2.",
+        "num": 457,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "Animal health attestation",
+        "num": 457,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f2",
+        "page": 3
+      },
+      {
+        "str": "I, the undersigned official veterinarian, hereby certify that the egg products described in Part I:",
+        "num": 472,
+        "size": 7.98,
+        "x": 70,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.2.1-0",
+    "name": "II.2.1",
+    "startY": 488,
+    "endY": 540,
+    "absoluteY": 2172,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2224,
+    "lines": [
+      {
+        "str": "II.2.1.",
+        "num": 488,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "come from the zone with code _ _ - _",
+        "num": 488,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "which, at the date of issue of this animal health/official certificate:",
+        "num": 488,
+        "size": 7.98,
+        "x": 269,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(a)",
+        "num": 499,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "is authorised and listed in Part 1 of Annex XIX to Commission Implementing Regulation (EU) 2021/404 for entry into",
+        "num": 499,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "the Union of egg products;",
+        "num": 508,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(b)",
+        "num": 519,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "carries out a disease surveillance programme for highly pathogenic avian influenza in accordance with Article 160 of",
+        "num": 519,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "Commission Delegated Regulation (EU) 2020/692;",
+        "num": 529,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.2.2-0",
+    "name": "II.2.2",
+    "startY": 540,
+    "endY": 640,
+    "absoluteY": 2224,
+    "startPage": 3,
+    "endPage": 3,
+    "absoluteEndY": 2324,
+    "lines": [
+      {
+        "str": "II.2.2.",
+        "num": 540,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "have been prepared from eggs obtained from animals kept in establishments:",
+        "num": 540,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(a)",
+        "num": 551,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "which are registered by and are under the control of the competent authority of the third country or territory of origin and",
+        "num": 551,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "have a system in place to maintain and to keep records in accordance with Article 8 of Delegated Regulation (EU)",
+        "num": 560,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "2020/692;",
+        "num": 569,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(b)",
+        "num": 580,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "which receive regular animal health visits from a veterinarian for the purpose of the detection of, and information on,",
+        "num": 580,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "signs indicative of the occurrence of diseases, including the listed diseases referred to in Annex I to Delegated Regulation",
+        "num": 590,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(EU) 2020/692 relevant for the species and emerging diseases;",
+        "num": 599,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "(c)",
+        "num": 610,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "which, at the time of collection of the eggs, were not subject to national restriction measures for animal health reasons,",
+        "num": 610,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "including the listed diseases referred to in Annex I to Delegated Regulation (EU) 2020/692 relevant for the species and",
+        "num": 619,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "emerging diseases;",
+        "num": 629,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "II.2.3-0",
+    "name": "II.2.3",
+    "startY": 640,
+    "endY": 369,
+    "absoluteY": 2324,
+    "startPage": 3,
+    "endPage": 4,
+    "absoluteEndY": 2895,
+    "lines": [
+      {
+        "str": "II.2.3.",
+        "num": 640,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "have been prepared from eggs obtained from birds kept in establishments in which during the last 30 days prior to the date of",
+        "num": 640,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "collection of the eggs and until the issue of this animal health/official certificate, no outbreak of highly pathogenic avian influenza",
+        "num": 649,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or infection with Newcastle disease virus occurred, and:",
+        "num": 658,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 669,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[(a)",
+        "num": 669,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "within a 10 km radius of which, including where appropriate the territory of a neighbouring country, there was no outbreak",
+        "num": 669,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "of highly pathogenic avian influenza for at least 30 days prior to the date of collection of the eggs;]",
+        "num": 679,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 690,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[(a)",
+        "num": 690,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "the egg products have undergone the following treatment:",
+        "num": 690,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 701,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[liquid egg white was treated:",
+        "num": 701,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 712,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[with 55,6",
+        "num": 712,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "C for 870 seconds;]",
+        "num": 712,
+        "size": 7.98,
+        "x": 286,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 723,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[with 56,7",
+        "num": 723,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "C for 232 seconds;]]",
+        "num": 723,
+        "size": 7.98,
+        "x": 286,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 735,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[10 % salted yolk was treated with 62,2",
+        "num": 735,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "C for 138 seconds;]",
+        "num": 735,
+        "size": 7.98,
+        "x": 344,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 746,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[dried egg white was treated:",
+        "num": 746,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "either",
+        "num": 757,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 3
+      },
+      {
+        "str": "[with 67",
+        "num": 757,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "C for 20 hours;]",
+        "num": 757,
+        "size": 7.98,
+        "x": 280,
+        "font": "g_d1_f4",
+        "page": 3
+      },
+      {
+        "str": "or",
+        "num": 125,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[with 54,4",
+        "num": 125,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 50,4 hours;]]",
+        "num": 125,
+        "size": 7.98,
+        "x": 286,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 136,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[whole eggs were:",
+        "num": 136,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 147,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 60",
+        "num": 147,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 188 seconds;]",
+        "num": 147,
+        "size": 7.98,
+        "x": 303,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 159,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[completely cooked;]]",
+        "num": 159,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 170,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[whole egg blends were:",
+        "num": 170,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 181,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 60",
+        "num": 181,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 188 seconds;]",
+        "num": 181,
+        "size": 7.98,
+        "x": 303,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 192,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 61,1",
+        "num": 192,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 94 seconds;]",
+        "num": 192,
+        "size": 7.98,
+        "x": 309,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 203,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[completely cooked;]]]",
+        "num": 203,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 215,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 215,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "within a 10 km radius of which, including where appropriate, the territory of a neighbouring country there was no outbreak",
+        "num": 215,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "of infection with Newcastle disease virus within at least 30 days prior to the date of collection of the eggs;]",
+        "num": 224,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 235,
+        "size": 7.98,
+        "x": 104,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[(b)",
+        "num": 235,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "the egg products have undergone the following treatment:",
+        "num": 235,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 246,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[liquid egg white was treated:",
+        "num": 246,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 257,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[with 55",
+        "num": 257,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 2 278 seconds;]",
+        "num": 257,
+        "size": 7.98,
+        "x": 280,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 269,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[with 57",
+        "num": 269,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 986 seconds;]",
+        "num": 269,
+        "size": 7.98,
+        "x": 280,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 280,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[with 59",
+        "num": 280,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 301 seconds;]]",
+        "num": 280,
+        "size": 7.98,
+        "x": 280,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 291,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[10 % salted yolk was treated with 55",
+        "num": 291,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 176 seconds;]",
+        "num": 291,
+        "size": 7.98,
+        "x": 338,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 302,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[dried egg white was treated with 57",
+        "num": 302,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 50,4 hours;]",
+        "num": 302,
+        "size": 7.98,
+        "x": 334,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 313,
+        "size": 7.98,
+        "x": 175,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[whole eggs were:",
+        "num": 313,
+        "size": 7.98,
+        "x": 214,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "either",
+        "num": 325,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 55",
+        "num": 325,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 2 521 seconds;]",
+        "num": 325,
+        "size": 7.98,
+        "x": 303,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 336,
+        "size": 7.98,
+        "x": 220,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 57",
+        "num": 336,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 1 596 seconds;]",
+        "num": 336,
+        "size": 7.98,
+        "x": 303,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 347,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[treated with 59",
+        "num": 347,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "C for 674 seconds;]",
+        "num": 347,
+        "size": 7.98,
+        "x": 303,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "or",
+        "num": 358,
+        "size": 7.98,
+        "x": 221,
+        "font": "g_d1_f5",
+        "page": 4
+      },
+      {
+        "str": "[completely cooked;]]]",
+        "num": 358,
+        "size": 7.98,
+        "x": 250,
+        "font": "g_d1_f4",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "II.2.4-0",
+    "name": "II.2.4",
+    "startY": 369,
+    "endY": 390,
+    "absoluteY": 2895,
+    "startPage": 4,
+    "endPage": 4,
+    "absoluteEndY": 2916,
+    "lines": [
+      {
+        "str": "II.2.4.",
+        "num": 369,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "were products from eggs obtained from birds which did not show symptoms of transmissible diseases at the time of collection of",
+        "num": 369,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "the eggs;",
+        "num": 379,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "II.2.5-0",
+    "name": "II.2.5",
+    "startY": 390,
+    "endY": 401,
+    "absoluteY": 2916,
+    "startPage": 4,
+    "endPage": 4,
+    "absoluteEndY": 2927,
+    "lines": [
+      {
+        "str": "II.2.5.",
+        "num": 390,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "were produced on ___/___/____ (dd/mm/yyyy) or between ___/___/____ (dd/mm/yyyy) and ___/___/____ (dd/mm/yyyy)",
+        "num": 390,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": ";",
+        "num": 390,
+        "size": 7.98,
+        "x": 539,
+        "font": "g_d1_f4",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "II.2.6-0",
+    "name": "II.2.6",
+    "startY": 401,
+    "endY": 469,
+    "absoluteY": 2927,
+    "startPage": 4,
+    "endPage": 4,
+    "absoluteEndY": 2995,
+    "lines": [
+      {
+        "str": "II.2.6.",
+        "num": 401,
+        "size": 7.98,
+        "x": 97,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "are dispatched to the Union:",
+        "num": 401,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "(a)",
+        "num": 412,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "in a means of transport designed, constructed and maintained in such condition that the health status of the egg products",
+        "num": 412,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "will not be jeopardised during the transport from their place of origin to the Union;",
+        "num": 421,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "(b)",
+        "num": 433,
+        "size": 7.98,
+        "x": 139,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "separated from birds and products of animal origin not complying with the relevant animal health requirements for the",
+        "num": 433,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      },
+      {
+        "str": "entry into the Union provided for in Delegated Regulation (EU) 2020/692.",
+        "num": 442,
+        "size": 7.98,
+        "x": 168,
+        "font": "g_d1_f4",
+        "page": 4
+      }
+    ]
+  }
+]
